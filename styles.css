@@ -1,0 +1,33 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.card:hover {
+  transform: scale(1.03);
+  transition: transform 0.3s ease;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+header{
+  background-image: url(Baccc.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#NS{
+  text-align: center;
+  top: 25px;
+}
+footer{
+  height: 100px;
+}
+.ddd{
+  position: absolute;
+  left: 500px;
+  top: 1300px;
+}
+.display-4{
+  color: white;
+}
